@@ -1,5 +1,16 @@
 ![alt text](https://github.com/R4zeel/R4zeel/blob/main/header.png?raw=true)
 
+I'm a Yandex.Praktikum student, currently studying python 
+
+My skills:
+- Python 🐍
+- Django 🎸
+- SQL 🗃️
+- API 📡
+- Git 🌳
+- PyTest 👨‍🔬
+- HTML/CSS 🖺
+
 <!--
 **R4zeel/R4zeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
