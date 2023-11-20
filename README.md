@@ -1,4 +1,4 @@
-<img>https://github.com/R4zeel/R4zeel/blob/main/header.png?raw=true</img>
+![alt text](https://github.com/R4zeel/R4zeel/blob/main/header.png?raw=true)
 
 <!--
 **R4zeel/R4zeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
