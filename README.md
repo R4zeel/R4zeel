@@ -1,6 +1,6 @@
 ![alt text](https://github.com/R4zeel/R4zeel/blob/main/header.png?raw=true)
 
-I'm a Yandex.Praktikum student, currently studying python 
+I'm a Yandex.Praktikum student, currently studying backend development
 
 My skills:
 - Python 🐍
