@@ -8,6 +8,7 @@ My skills:
 - SQL 🗃️
 - API 📡
 - Git 🌳
+- Remote deploy (Nginx/Gunicorn/Docker) 🐳
 - PyTest 👨‍🔬
 - HTML/CSS 🖺
 
