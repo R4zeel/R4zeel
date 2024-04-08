@@ -8,9 +8,13 @@ My skills:
 - SQL 🗃️
 - API 📡
 - Git 🌳
-- Remote deploy (Nginx/Gunicorn/Docker) 🐳
+- Remote deploy (Docker) 🐳
 - PyTest 👨‍🔬
 - HTML/CSS 🖺
+
+  How to reach me:
+  - Telegram: @R4zeel
+  - Email: R4zeel@yandex.ru
 
 <!--
 **R4zeel/R4zeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
