@@ -1,6 +1,6 @@
 ![alt text](https://github.com/R4zeel/R4zeel/blob/main/header.png?raw=true)
 
-I'm a Yandex.Praktikum student, currently studying backend development
+I'm a backend developer, always looking for an interesting projects and new technologies.
 
 My skills:
 - Python 🐍
@@ -8,9 +8,8 @@ My skills:
 - SQL 🗃️
 - API 📡
 - Git 🌳
-- Remote deploy (Docker) 🐳
+- Remote deploy (Docker/Docker Compose) 🐳
 - PyTest 👨‍🔬
-- HTML/CSS 🖺
 
 How to reach me:
 - Telegram: @R4zeel
