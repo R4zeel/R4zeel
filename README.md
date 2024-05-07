@@ -8,7 +8,7 @@ My skills:
 - SQL 🗃️
 - API 📡
 - Git 🌳
-- Remote deploy (Docker/Docker Compose) 🐳
+- Deploy (Docker/Docker Compose) 🐳
 - PyTest 👨‍🔬
 
 How to reach me:
